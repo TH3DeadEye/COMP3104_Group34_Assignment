@@ -1,0 +1,3 @@
+COMP3104 is our DevOps course, taught by Professor Pritesh Patel, and it focuses on automating the path from writing code to running a live application. We began with Git basics like commits, branches and pull requests.
+
+Then we moved on to GitHub Actions, where YAML workflows run automatically on events such as a push. We also built a React single page app, and most of the work so far has been hands-on weekly exercises along with this group assignment.

@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Arman Milani(101555606) - [GitHub](https://github.com/th3deadeye)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Beray Erdogan (101582362) - [GitHub](https://github.com/erdoganberay)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
 ## Project Description
