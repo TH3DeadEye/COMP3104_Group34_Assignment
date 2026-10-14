@@ -1,0 +1,1 @@
+COMP3104 is our DevOps course, taught by Professor Pritesh Patel, and it focuses on automating the path from writing code to running a live application. We began with Git basics like commits, branches and pull requests.
