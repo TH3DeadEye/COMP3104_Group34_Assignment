@@ -1,1 +1,3 @@
 DevOps is a set of practices that brings development and operations teams together. Instead of working separately, both teams share responsibility for building, testing and releasing software. This improves communication and reduces delays between writing code and delivering it to users.
+
+DevOps uses automation tools like CI/CD pipelines to build, test and deploy code automatically. This allows teams to release updates more often and with fewer errors. Problems are caught early in the lifecycle, which makes them cheaper and easier to fix.
