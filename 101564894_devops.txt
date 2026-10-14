@@ -1,0 +1,4 @@
+COMP 3104 – DevOps
+• Core Focus: Continuous Integration and Continuous Delivery/Deployment (CI/CD) pipelines and software lifecycle automation.
+• Key Competencies: Repository maintenance, version control, and tool optimization for enhanced delivery workflows.
+• Takeaway: Developed the ability to navigate fast-paced development cycles with high accuracy, security, and strict quality control.
