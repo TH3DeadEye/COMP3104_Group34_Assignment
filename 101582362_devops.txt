@@ -1,0 +1,1 @@
+DevOps is a set of practices that brings development and operations teams together. Instead of working separately, both teams share responsibility for building, testing and releasing software. This improves communication and reduces delays between writing code and delivering it to users.
