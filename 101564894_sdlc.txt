@@ -1,3 +1,5 @@
+The Software Development Life Cycle (SDLC) is a structured project management framework that defines the exact phases required to take a software product from an initial idea to a fully functional, deployed application.
+
 DevOps bridges the traditional gap between software development and IT operations, transforming the SDLC from a rigid, sequential process into a continuous, agile loop. By automating workflows through Continuous Integration and Continuous 
 
 Deployment (CI/CD), DevOps eliminates human error, reduces manual bottlenecks, and accelerates time-to-market. It shifts 
