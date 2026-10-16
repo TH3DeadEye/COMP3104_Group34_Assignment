@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Arman Milani(101555606) - [GitHub](https://github.com/th3deadeye)
 - **Member 2:** Beray Erdogan (101582362) - [GitHub](https://github.com/erdoganberay)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 3:** Karthik Madarapu (101564894) - [GitHub](https://github.com/karthikmadarapu)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
