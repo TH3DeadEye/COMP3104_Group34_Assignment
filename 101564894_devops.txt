@@ -1,4 +1,5 @@
 COMP 3104 – DevOps
+• DevOps is a streamlined methodology designed to enhance the software development lifecycle by breaking it into multiple  short, powerful steps.
 • Core Focus: Continuous Integration and Continuous Delivery/Deployment (CI/CD) pipelines and software lifecycle automation.
 • Key Competencies: Repository maintenance, version control, and tool optimization for enhanced delivery workflows.
 • Takeaway: Developed the ability to navigate fast-paced development cycles with high accuracy, security, and strict quality control.
