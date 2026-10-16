@@ -17,4 +17,5 @@ Credentials Offered:
 - Certificates & Diplomas
 - Advanced Diplomas
 - Postgraduate/Graduate Certificates
-- Bachelor's Degreesgit 
+- Bachelor's Degrees
+- Master's Degrees
