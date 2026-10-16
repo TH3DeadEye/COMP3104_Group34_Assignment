@@ -3,3 +3,22 @@ COMP 3104 – DevOps
 • Core Focus: Continuous Integration and Continuous Delivery/Deployment (CI/CD) pipelines and software lifecycle automation.
 • Key Competencies: Repository maintenance, version control, and tool optimization for enhanced delivery workflows.
 • Takeaway: Developed the ability to navigate fast-paced development cycles with high accuracy, security, and strict quality control.
+
+what DevOps is actually?
+• Devops is an agile methodology where it bridges the loose gap between Software Dev Team(DEV) and the IT operations Team(Ops) which together makes it as DevOps.
+
+
+• It enhances the slow software development lifecycle to a fast paced smart environment where team doesn't have to wait for a big to break or wait until release processes are done.
+
+
+  [ Plan ] ➔ [ Code ] ➔ [ Build ] ➔ [ Test ]
+     ▲                                   │
+     │                                   ▼
+  [ Monitor ] ◀ [ Operate ] ◀ [ Deploy ] ◀ [ Release ]
+
+• Faster Time-to-Market: Automated testing and integration mean companies can ship features or fixes to customers in hours rather than months.
+
+• Higher Software Quality: Because code is integrated and tested automatically in "short, powerful steps," bugs are caught and fixed early in the lifecycle.
+
+• Improved Team Collaboration: By eliminating structural barriers, developers and operations staff share common goals, resulting in higher productivity and morale.
+• Greater Stability and Reliability: Frequent, smaller updates are inherently less risky than massive, infrequent software releases, drastically reducing system downtime.
