@@ -1,7 +1,11 @@
-Our devops course (COMP3104), It's about how code gets from a developer's laptor inot a running application, using automation and shared tools instead of doing it all by hand.
+COMP3104 is our DevOps course. It's about how code gets from a developer's laptop into a running application, using automation and shared tools instead of doing everything by hand.
 
 The course started with Git. I learned git init, how to commit changes, and how branches and pull requests work when a few people are on the same project. This assignment is mostly the same thing with more people.
 
 The biggest topic so far is GitHub Actions. A workflow is just a YAML file in the .github/workflows folder, and it runs on its own when something happens, like a push. It runs on a hosted machine (ubuntu-latest for us), and the Actions tab shows whether the run passed or failed.
+
+In one lab I set up a Node.js project with a GitHub Actions workflow and a pull request template. Every push starts the workflow, so you find out right away if you broke something, and the template gives every PR the same checklist.
+
+We also tried Travis CI. It does basically the same job as GitHub Actions, building and checking the code every time it changes. Using both helped me see what CI is actually for.
 
 Another class exercise had us build a single page app in React. So far the work is weekly class exercises plus this group assignment, and each one has you build something and run it yourself.
