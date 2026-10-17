@@ -1,7 +1,9 @@
+The software development lifecycle is the set of steps software goes through: planning, building, testing, releasing and maintaining it. In the old way of working, developers wrote the code and a separate operations team ran it. Work got passed back and forth between them, and that took a long time.
+
 DevOps closes that gap. Developers and operations share the job from the first commit to the app running in production, so nobody can just toss a problem over the wall to the other team.
 
 Automation is a big part of it. With CI/CD, every push can be built and tested automatically, so a bug shows up in minutes instead of weeks later when it's much harder to track down. That's what we've been practicing with GitHub Actions.
 
-DevOps also pushes teams to set up their environments the same way every time, so a program doesn't only work on one person's laptop. After a release, monitoring tells the team when something breaks so they can fix it fast
+DevOps also pushes teams to set up their environments the same way every time, so a program doesn't only work on one person's laptop. After a release, monitoring tells the team when something breaks so they can fix it fast.
 
 It matters for group work like this assignment too. With branches and pull requests, nobody breaks main by accident, and everyone can see who changed what.
